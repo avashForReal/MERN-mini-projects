@@ -1,0 +1,4 @@
+/backend/node_modules
+/backend/public/
+/socket/node_modules
+/client/node_modules
